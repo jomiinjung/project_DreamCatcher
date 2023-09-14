@@ -20,8 +20,8 @@
 - 참여도 : 100% (개인)
 
 ## 사용 기술 및 개발 환경
-- Language : JAVA 1.8.0_271, R, Javascript, HTML5, CSS3
-- Framework : Spring framework4.3.9, eGovernment Framework 3.9.0
+- Language : JAVA 1.8.0, R, Javascript, HTML5, CSS3
+- Framework : Spring framework 4.3.9, eGovernment Framework 3.9.0
 - Skill : Servlet/JSP
 - Server : Apache Tomcat 9
 - DB : Oracle Database 11.2.0.2.0
